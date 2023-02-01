@@ -8,9 +8,9 @@ const Select = styled.select`
     appearance: none !important;
     outline: none;
     border-radius: 24px;
-    border: solid #152842 1px;
+    border: solid #E2E8F0 1px;
     background-color: #F8FAFC;
-    color: #666787;
+    color: #0F172A;
     &:hover {
         background-color: #D9E2EFB8;
     }
