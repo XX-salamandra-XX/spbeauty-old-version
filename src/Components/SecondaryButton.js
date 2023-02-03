@@ -12,7 +12,7 @@ function SecondaryButton(props) {
         min-width: ${minWidth};
         color: #64748B;
         &:hover {
-            background: linear-gradient(180deg, #DFEAF1 0%, #CFDDE8 100%);
+            background: linear-gradient(180deg, #DFEAF1 0%, #F8FAFC 100%);
         }
         &:active {
             background: #DFDFDF;
